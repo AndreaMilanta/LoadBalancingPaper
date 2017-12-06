@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
+The style file: IEEEtran.bst
+I couldn't open database file biblio_traps_dynamics.bib
+---line 25 of file document.aux
+ : \bibdata{IEEEabrv,biblio_traps_dynamics
+ :                                        }
+I'm skipping whatever remains of this command
+Database file #1: IEEEabrv.bib
+Warning--I didn't find a database entry for "5296056"
+Warning--I didn't find a database entry for "Leoni2001"
+Warning--I didn't find a database entry for "5516843"
+Warning--I didn't find a database entry for "163456"
+Warning--I didn't find a database entry for "Jardel2007b"
+Warning--I didn't find a database entry for "jardel2012first"
+Warning--I didn't find a database entry for "wamicon"
+Warning--I didn't find a database entry for "elrafei"
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There was 1 error message)
